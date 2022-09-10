@@ -15,8 +15,8 @@
     "web-vitals": "^2.1.4"
   },
   "engines": {
-    "npm": ">=15.0.0",
-    "node": ">=5.0.0"
+    "node": ">=15.0.0",
+    "npm": ">=5.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
