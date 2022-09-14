@@ -1,2 +1,12 @@
 # Da-Blog
-Da-Blog, a mini-blog web application engineered using HTML5, CSS3, ReactJS and JSON Pseudo database. This mini-blog allows user to Create, Read &amp; Delete a blog using useState, useEffect and a customized reactjs hook named useFetch to Fetch the data, i.e., to fetch the blogs from JSON database 
+1. Designed by using HTML, CSS, JavaScript and ReactJS. 
+
+2. This blog allows user to Read, Create and Delete any blog(s). 
+
+3. Have engineered a pseudo-database using JSON. 
+
+4. Have engineered a custom react hook named useFetch to fetch the data, i.e., the blogs from the pseudo JSON DB to the Home Page 
+
+5. Have utilized useHistory hook of react to push the screen to the home page the very instant we add a new blog.
+
+
